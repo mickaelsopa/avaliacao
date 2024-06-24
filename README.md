@@ -3,12 +3,8 @@
 Este microserviço foi desenvolvido para teste onde gerencia informações de compras de vinhos, utilizando uma arquitetura hexagonal e consumindo dados de duas APIs externas para produtos e clientes.
 
 
-### Java
-![Java](images/java.png)
-
-### Spring Boot
-![Spring Boot](images/spring-boot.png)
-## Funcionalidades
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 O microserviço oferece os seguintes endpoints:
 
